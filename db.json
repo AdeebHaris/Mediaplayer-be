@@ -1,0 +1,78 @@
+{
+  "videos": [
+    {
+      "caption": "Chaleya",
+      "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.R7zZU3Tlhduf4WfN2EunegHaEK&pid=Api&P=0&h=180",
+      "youtubeLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "url": "https://www.youtube.com/embed/dsgdag",
+      "caption": "sample1",
+      "timeStamp": "08/16/2024, 10:57:17 PM",
+      "id": 1
+    },
+    {
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "caption": "Heeriye",
+      "timeStamp": "08/19/2024, 01:08:52 PM",
+      "id": 2
+    },
+    {
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "caption": "Heeriye",
+      "timeStamp": "08/19/2024, 01:09:11 PM",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Melody",
+      "allVideos": [
+      ],
+      "id": 4
+    },
+    {
+      "categoryName": "Hiphop",
+      "allVideos": [
+      ],
+      "id": 5
+    },
+    {
+      "categoryName": "Telugu",
+      "allVideos": [],
+      "id": 6
+    },
+    {
+      "categoryName": "malayalam",
+      "allVideos": [
+      ],
+      "id": 7
+    },
+    {
+      "categoryName": "Hindi",
+      "allVideos": [
+        {
+          "caption": "Chaleya",
+          "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.R7zZU3Tlhduf4WfN2EunegHaEK&pid=Api&P=0&h=180",
+          "youtubeLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+          "id": 2
+        },
+        {
+          "caption": "Heeriye",
+          "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.rNlxhx3lR150Z7RQxkEUHAHaEK&pid=Api&P=0&h=180",
+          "youtubeLink": "https://www.youtube.com/embed/RLzC55ai0eo",
+          "id": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "categoryName": "Kannada",
+      "allVideos": [],
+      "id": 9
+    }
+  ]
+}
